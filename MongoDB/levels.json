@@ -1,0 +1,6 @@
+{"_id":{"$oid":"5e3c130db9ade3ba30225dbc"},"name":"level1","color":"#eee","__v":0}
+{"_id":{"$oid":"5e3c130db9ade3ba30225dbd"},"name":"level2","color":"#95ddb2","__v":0}
+{"_id":{"$oid":"5e3c130db9ade3ba30225dbe"},"name":"level3","color":"#92d1e5","__v":0}
+{"_id":{"$oid":"5e3c130db9ade3ba30225dbf"},"name":"level4","color":"#ffb37c","__v":0}
+{"_id":{"$oid":"5e3c130db9ade3ba30225dc0"},"name":"level5","color":"#ff6c00","__v":0}
+{"_id":{"$oid":"5e3c130db9ade3ba30225dc1"},"name":"level6","color":"#ff0000","__v":0}

@@ -1,0 +1,24 @@
+{
+  "name": "forumserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-session": "^1.17.0",
+    "formidable": "^1.2.1",
+    "log4js": "^6.1.2",
+    "mime": "^2.4.4",
+    "mongoose": "^5.8.9",
+    "nodemailer": "^6.4.4",
+    "picture-compressor": "^1.1.0",
+    "picture-compressor-plus": "^1.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

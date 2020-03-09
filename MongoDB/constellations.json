@@ -1,0 +1,12 @@
+{"_id":{"$oid":"5e3edd57e3ab2cee0c2bb6d2"},"name":"水瓶座","num":0,"__v":0}
+{"_id":{"$oid":"5e3edd57e3ab2cee0c2bb6d3"},"name":"双鱼座","num":1,"__v":0}
+{"_id":{"$oid":"5e3edd57e3ab2cee0c2bb6d4"},"name":"白羊座","num":2,"__v":0}
+{"_id":{"$oid":"5e3edd57e3ab2cee0c2bb6d5"},"name":"金牛座","num":3,"__v":0}
+{"_id":{"$oid":"5e3edd57e3ab2cee0c2bb6d6"},"name":"双子座","num":4,"__v":0}
+{"_id":{"$oid":"5e3edd57e3ab2cee0c2bb6d7"},"name":"巨蟹座","num":5,"__v":0}
+{"_id":{"$oid":"5e3edd57e3ab2cee0c2bb6d8"},"name":"狮子座","num":6,"__v":0}
+{"_id":{"$oid":"5e3edd57e3ab2cee0c2bb6d9"},"name":"处女座","num":7,"__v":0}
+{"_id":{"$oid":"5e3edd57e3ab2cee0c2bb6da"},"name":"天秤座","num":8,"__v":0}
+{"_id":{"$oid":"5e3edd57e3ab2cee0c2bb6db"},"name":"天蝎座","num":9,"__v":0}
+{"_id":{"$oid":"5e3edd57e3ab2cee0c2bb6dc"},"name":"射手座","num":10,"__v":0}
+{"_id":{"$oid":"5e3edd57e3ab2cee0c2bb6dd"},"name":"摩羯座","num":11,"__v":0}
