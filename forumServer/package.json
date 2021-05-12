@@ -11,7 +11,7 @@
     "log4js": "^6.1.2",
     "mime": "^2.4.4",
     "mongoose": "^5.8.9",
-    "nodemailer": "^6.4.4",
+    "nodemailer": "^6.4.16",
     "picture-compressor": "^1.1.0",
     "picture-compressor-plus": "^1.2.4"
   },
